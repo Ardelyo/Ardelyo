@@ -125,7 +125,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardelyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ardelyo's GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=ardelyo&theme=tokyonight&hide_border=true" alt="Ardelyo's GitHub Streak" />
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardelyo&layout=compact&theme=tokyonight&hide_border=true" alt="Ardelyo's Top Languages" />
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardelyo&theme=tokyo-night&hide_border=true&line=FF6B6B&point=FFFFFF&area=true&area_color=0D1117)
+[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardelyo&theme=tokyo-night&hide_border=true&line=FF6B6B&point=FFFFFF&area=true&area_color=0D1117)
 
 </div>
 
