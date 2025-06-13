@@ -30,15 +30,15 @@
 nama: "Ardelyo"
 alias: "Lyo"
 usia: 16
-status: "Siswa SMA & Full-Stack Developer"
+status: "Siswa SMA &amp; Full-Stack Developer"
 lokasi: "Bandung, Jawa Barat 🇮🇩"
-passion: "Membangun solusi digital yang elegan & fungsional"
+passion: "Membangun solusi digital yang elegan &amp; fungsional"
 specialization: 
   - "🌐 Pengembangan Web Full-Stack"
   - "🤖 Artificial Intelligence"
   - "🐍 Python Development"
   - "⚡ Modern JavaScript Ecosystem"
-currently_learning: "Advanced AI/ML & Cloud Architecture"
+currently_learning: "Advanced AI/ML &amp; Cloud Architecture"
 fun_fact: "Saya bisa menghabiskan berjam-jam untuk menyempurnakan satu pixel! 🎨"
 ```
 
@@ -115,13 +115,13 @@ Website portfolio pribadi dengan desain modern dan performa optimal
 RESTful API lengkap untuk aplikasi e-commerce dengan fitur enterprise-grade
 
 **⚡ Teknologi:**
-- Node.js & Express.js
+- Node.js &amp; Express.js
 - MongoDB dengan Mongoose
 - JWT Authentication
 - Redis untuk caching
 
 **🌟 Fitur Utama:**
-- 🔐 Authentication & Authorization
+- 🔐 Authentication &amp; Authorization
 - 💳 Payment gateway integration
 - 📦 Inventory management
 - 📊 Analytics dashboard
@@ -216,16 +216,16 @@ timeline
     title Perjalanan Developer Ardelyo
     
     2021 : 🌱 Memulai Perjalanan Coding
-         : Belajar HTML, CSS & JavaScript dasar
+         : Belajar HTML, CSS &amp; JavaScript dasar
          : Membuat website statis pertama
     
     2022 : 📚 Mendalami Frontend Development
-         : Menguasai React & modern JavaScript
-         : Mulai menggunakan Git & GitHub
+         : Menguasai React &amp; modern JavaScript
+         : Mulai menggunakan Git &amp; GitHub
          : Bergabung dengan komunitas developer
     
-    2023 : 🚀 Eksplorasi Backend & AI
-         : Belajar Node.js, Express & Python
+    2023 : 🚀 Eksplorasi Backend &amp; AI
+         : Belajar Node.js, Express &amp; Python
          : Membangun REST API pertama
          : Mulai bereksperimen dengan AI/ML
     
@@ -236,7 +236,7 @@ timeline
     
     2025 : 🎯 Fokus pada Profesionalisme
          : Advanced system architecture
-         : Cloud deployment & DevOps
+         : Cloud deployment &amp; DevOps
          : Membangun startup tech pertama
 ```
 
@@ -282,7 +282,7 @@ timeline
 **Python Programming** `██████████████████` 90%  
 **AI/Machine Learning** `██████████████` 70%  
 **Database Management** `█████████████████` 85%  
-**DevOps & Deployment** `████████████` 60%  
+**DevOps &amp; Deployment** `████████████` 60%  
 
 </div>
 
@@ -312,9 +312,9 @@ timeline
 ### 🤝 **TERBUKA UNTUK**
 
 - 🚀 **Kolaborasi Proyek Open Source**
-- 💼 **Peluang Magang & Freelance**
-- 🎯 **Diskusi Teknologi & Inovasi**
-- 🌱 **Mentoring & Knowledge Sharing**
+- 💼 **Peluang Magang &amp; Freelance**
+- 🎯 **Diskusi Teknologi &amp; Inovasi**
+- 🌱 **Mentoring &amp; Knowledge Sharing**
 
 </div>
 
