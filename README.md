@@ -1,6 +1,7 @@
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d3748&height=200&section=header&text=ARDELYO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Enthusiast&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0%3A1a1a1a,100%3A2d3748&height=200&section=header&text=ARDELYO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20AI%20Enthusiast&descAlignY=60&descAlign=50)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hai%2C+Saya+Ardelyo+%F0%9F%91%8B;Pengembang+Web+Full-Stack;%26+Enthusiast+AI+dari+Indonesia" alt="Typing SVG" />
 
@@ -354,7 +355,7 @@ timeline
 
 ### 🎨 **DESAIN DENGAN ❤️**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d3748&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A1a1a1a,100%3A2d3748&height=120&section=footer&animation=fadeIn" />
 
 **Terima kasih telah mengunjungi profil saya!**  
 *Dibuat dengan kode, kopi, dan dedikasi dari Bandung* ☕
