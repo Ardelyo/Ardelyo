@@ -1,9 +1,10 @@
+
 <div align="center">
 
 # 🌟 **ARDELYO (LYO)** 🌟
 ### *Penggemar Kecerdasan Buatan | Developer Machine Learning | Kreator Konten*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+Alam+Semesta+Digital+Saya+%F0%9F%9A%80;Penggemar+AI+%26+ML+dari+Indonesia+%F0%9F%A4%96;Koding+dengan+Tujuan%2C+Berkarya+dengan+Passion+%E2%9C%A8;Membangun+Teknologi+Masa+Depan+Hari+Ini+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+Alam+Semesta+Digital+Saya+%F0%9F%9A%80;Penggemar+AI+%26+ML+dari+Indonesia+%F0%9F%A4%96;Koding+dengan+Tujuan%2C+Berkarya+dengan+Passion+%E2%9C%A8;Membangun+Teknologi+Masa+Depan+Hari+Ini+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 ---
 
@@ -146,14 +147,14 @@ timeline
 
 <div align="center">
 
-| 🎯 **Kategori** | 📈 **Level** | 🛠️ **Teknologi** |
+| 🎯 **Kategori** | 📈 **Level Kemahiran** | 🛠️ **Teknologi** |
 |:---|:---:|:---|
-| **🤖 AI & Machine Learning** | ![85%](https://progress-bar.dev/85?color=00d4aa&width=200) | Google AI Studio, Gemini, GPT, Claude |
-| **✍️ Technical Writing** | ![90%](https://progress-bar.dev/90?color=ff6b6b&width=200) | Dokumentasi, Pembuatan Konten, Blogging |
-| **💻 Programming** | ![75%](https://progress-bar.dev/75?color=4ecdc4&width=200) | Python, JavaScript, TypeScript, C++ |
-| **🌐 Web Development** | ![65%](https://progress-bar.dev/65?color=45b7d1&width=200) | React, Node.js, HTML/CSS, APIs |
-| **🗣️ Bahasa** | ![80%](https://progress-bar.dev/80?color=f9ca24&width=200) | 🇮🇩 Indonesia, 🇺🇸 Inggris, 🇯🇵 Jepang |
-| **☁️ Cloud & DevOps** | ![50%](https://progress-bar.dev/50?color=6c5ce7&width=200) | GCP, Docker, CI/CD, Deployment |
+| **🤖 AI & Machine Learning** | `████████░░ (85%)` | Google AI Studio, Gemini, GPT, Claude |
+| **✍️ Technical Writing** | `█████████░ (90%)` | Dokumentasi, Pembuatan Konten, Blogging |
+| **💻 Programming** | `███████░░░ (75%)` | Python, JavaScript, TypeScript, C++ |
+| **🌐 Web Development** | `██████░░░░ (65%)` | React, Node.js, HTML/CSS, APIs |
+| **🗣️ Bahasa** | `████████░░ (80%)` | 🇮🇩 Indonesia, 🇺🇸 Inggris, 🇯🇵 Jepang |
+| **☁️ Cloud & DevOps** | `█████░░░░░ (50%)` | GCP, Docker, CI/CD, Deployment |
 
 </div>
 
@@ -180,8 +181,8 @@ timeline
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardelyo&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ardelyo&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardelyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ardelyo&theme=tokyonight&hide_border=true" />
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardelyo&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -203,6 +204,12 @@ timeline
 
 ### 🌟 **PROYEK AKTIF**
 
+<!-- 
+  CATATAN PENTING:
+  Ganti 'repo=nama-repo-anda' dengan nama repository publik Anda yang sesungguhnya agar kartu ini berfungsi. 
+  Jika repository tidak ada atau bersifat private, gambar akan menampilkan error. 
+-->
+
 </div>
 
 <table align="center">
@@ -210,7 +217,7 @@ timeline
 <td width="50%">
 
 ### 🧠 **Deep Thought AI**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=deep-thought-ai&theme=tokyonight&hide_border=true)](https://github.com/ardelyo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=deep-thought-ai&theme=tokyonight&hide_border=true)](https://github.com/ardelyo/deep-thought-ai)
 
 **🎯 Sistem AI Multi-Agent**
 - 🤖 Integrasi Google Gemini
@@ -224,7 +231,7 @@ timeline
 <td width="50%">
 
 ### 🎭 **Lya AI Personality**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=lya-ai&theme=tokyonight&hide_border=true)](https://github.com/ardelyo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=lya-ai&theme=tokyonight&hide_border=true)](https://github.com/ardelyo/lya-ai)
 
 **🎪 Kepribadian AI Kustom**
 - 🧠 Respons Terpersonalisasi
@@ -240,7 +247,7 @@ timeline
 <td width="50%">
 
 ### 🌍 **Platform OurCreativity**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=ourcreativity&theme=tokyonight&hide_border=true)](https://github.com/ardelyo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=ourcreativity&theme=tokyonight&hide_border=true)](https://github.com/ardelyo/ourcreativity)
 
 **🏛️ Hub Komunitas**
 - 👥 Profil Tim
@@ -254,7 +261,7 @@ timeline
 <td width="50%">
 
 ### 📝 **PaperFlow Writing**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=paperflow&theme=tokyonight&hide_border=true)](https://github.com/ardelyo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ardelyo&repo=paperflow&theme=tokyonight&hide_border=true)](https://github.com/ardelyo/paperflow)
 
 **✍️ Platform Menulis Elegan**
 - 📖 Rich Text Editor
@@ -290,25 +297,25 @@ timeline
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI/ML Icon"/>
 <br><strong>AI/ML Tingkat Lanjut</strong>
 <br><em>Deep Learning</em>
 <br><em>Neural Networks</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png"/>
+<img src="https://img.icons8.com/color/96/000000/cloud.png" alt="Cloud Icon"/>
 <br><strong>Cloud Computing</strong>
 <br><em>GCP & AWS</em>
 <br><em>Serverless</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/devops.png"/>
+<img src="https://img.icons8.com/color/96/000000/devops.png" alt="DevOps Icon"/>
 <br><strong>DevOps & MLOps</strong>
 <br><em>CI/CD Pipelines</em>
 <br><em>Model Deployment</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Icon"/>
 <br><strong>Full-Stack Dev</strong>
 <br><em>Ekosistem React</em>
 <br><em>Modern Web APIs</em>
@@ -349,17 +356,17 @@ timeline
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/64/000000/light-on.png"/>
+<img src="https://img.icons8.com/color/64/000000/light-on.png" alt="Innovate Icon"/>
 <br><strong>🚀 BERINOVASI</strong>
 <br><em>Menciptakan solusi AI yang berdampak positif untuk Indonesia dan dunia</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/64/000000/sharing.png"/>
+<img src="https://img.icons8.com/color/64/000000/sharing.png" alt="Share Icon"/>
 <br><strong>🤝 BERBAGI</strong>
 <br><em>Membagikan pengetahuan dan membangun komunitas developer yang kuat</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/64/000000/upgrade.png"/>
+<img src="https://img.icons8.com/color/64/000000/upgrade.png" alt="Grow Icon"/>
 <br><strong>📈 BERKEMBANG</strong>
 <br><em>Terus belajar, tumbuh, dan menginspirasi generasi mendatang</em>
 </td>
@@ -425,25 +432,25 @@ print("Siap mengubah dunia! 🌍✨")
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/64/000000/briefcase.png"/>
+<img src="https://img.icons8.com/color/64/000000/briefcase.png" alt="Work Icon"/>
 <br><strong>💼 PELUANG KERJA</strong>
 <br><em>Magang, Freelance, Full-time</em>
 <br><em>Posisi Developer AI/ML</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/64/000000/collaboration.png"/>
+<img src="https://img.icons8.com/color/64/000000/collaboration.png" alt="Collaboration Icon"/>
 <br><strong>🤝 KOLABORASI</strong>
 <br><em>Proyek Open Source</em>
 <br><em>Riset & Inovasi</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/64/000000/chat.png"/>
+<img src="https://img.icons8.com/color/64/000000/chat.png" alt="Discussion Icon"/>
 <br><strong>💬 DISKUSI</strong>
 <br><em>Tren AI/ML</em>
 <br><em>Inovasi Teknologi</em>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/64/000000/mentor.png"/>
+<img src="https://img.icons8.com/color/64/000000/mentor.png" alt="Mentorship Icon"/>
 <br><strong>👨‍🏫 MENTORSHIP</strong>
 <br><em>Belajar dari Senior</em>
 <br><em>Membantu Junior</em>
@@ -479,7 +486,7 @@ print("Siap mengubah dunia! 🌍✨")
 **🎯 "Masa depan milik mereka yang belajar, beradaptasi, dan berkreasi!"**
 
 [![Dibuat dengan ❤️](https://img.shields.io/badge/Dibuat_dengan-❤️_di_Indonesia-red?style=for-the-badge)](https://github.com/ardelyo)
-[![Terakhir Diperbarui](https://img.shields.io/badge/Terakhir_Diperbarui-Juni_2025-blue?style=for-the-badge)](https://github.com/ardelyo)
+[![Last Commit](https://img.shields.io/github/last-commit/ardelyo/ardelyo?style=for-the-badge&label=Terakhir%20Diperbarui&logo=github)](https://github.com/ardelyo/ardelyo)
 
 *Dibuat dengan passion oleh **ARDELYO** | Terus berinovasi! 🚀*
 
